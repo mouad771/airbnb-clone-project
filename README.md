@@ -12,6 +12,7 @@ Tech Stack:
 -Frontend: HTML, CSS, JavaScript (React or similar framework)
 -Version Control: Git and GitHub
 -Design Tools: Figma for UI/UX design
+
 ## UI/UX Design Planning
 
 Design Goals:
@@ -31,7 +32,8 @@ three Primary Pages :
 Importance of User-Friendly Design :
 -A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
 
-###Figma Design Specifications
+### Figma Design Specifications
+
 -Color Styles:
  Primary: #FF5A5F
  Secondary: #008489
@@ -45,7 +47,7 @@ Importance of User-Friendly Design :
 -the importance of identifying design properties of a mock up design:
  Creates mockups, maintains design system, ensures UX quality
  
-### Project Roles and Responsibilities:
+#### Project Roles and Responsibilities:
 -Project Manager	: Oversees timeline, coordinates team, manages deliverables
 -Frontend Developers	: Implements UI components, ensures responsive design
 -Backend Developers	: Builds APIs, manages database, implements business logic
