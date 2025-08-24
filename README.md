@@ -47,7 +47,7 @@ Importance of User-Friendly Design :
 -the importance of identifying design properties of a mock up design:
  Creates mockups, maintains design system, ensures UX quality
  
-#### Project Roles and Responsibilities:
+#### Project Roles and Responsibilities
 -Project Manager	: Oversees timeline, coordinates team, manages deliverables
 -Frontend Developers	: Implements UI components, ensures responsive design
 -Backend Developers	: Builds APIs, manages database, implements business logic
